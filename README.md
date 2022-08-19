@@ -1,0 +1,4 @@
+- 👋 Ola, meu nome é @laninhapepsicola
+- 🌟 Meu email de contato é estudante.alura@gmail.com.br
+- 👀 Eu estou interessada em aprender novas linguagens
+- 🌱 Eu estou aprendendo a progaramar recentemente a linguagem de JavaScript e Scrat
